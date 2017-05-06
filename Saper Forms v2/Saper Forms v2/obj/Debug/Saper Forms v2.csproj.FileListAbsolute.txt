@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2015\Projects\Saper Forms v2\Saper Forms v2\bin\Debug\Saper Forms v2.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Saper Forms v2\Saper Forms v2\bin\Debug\Saper Forms v2.exe
+c:\users\dell\documents\visual studio 2015\Projects\Saper Forms v2\Saper Forms v2\bin\Debug\Saper Forms v2.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Saper Forms v2\Saper Forms v2\obj\Debug\Saper Forms v2.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Saper Forms v2\Saper Forms v2\obj\Debug\Saper_Forms_v2.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\Saper Forms v2\Saper Forms v2\obj\Debug\Saper_Forms_v2.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\Saper Forms v2\Saper Forms v2\obj\Debug\Saper Forms v2.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\Saper Forms v2\Saper Forms v2\obj\Debug\Saper Forms v2.exe
+c:\users\dell\documents\visual studio 2015\Projects\Saper Forms v2\Saper Forms v2\obj\Debug\Saper Forms v2.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Saper Forms v2\Saper Forms v2\obj\Debug\Saper_Forms_v2.Form2.resources
